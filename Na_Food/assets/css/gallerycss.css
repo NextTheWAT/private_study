@@ -1,0 +1,97 @@
+.gallerylist
+{
+    position: relative;
+    margin-bottom: 0;
+    margin-top: 0;
+    overflow: hidden;
+}
+
+#developer_ul
+{
+    font-size:0;
+    margin-top: 19%;
+    margin-bottom: 10%;
+}
+
+#developer_ul > li
+{
+    display: inline-block;
+    vertical-align: top; /*인라인의 새로 정렬*/
+    width: 33.3%;
+
+}
+
+#developer_ul > li > a
+{
+    display: block;
+    width: auto; /*유동적인 가로값*/
+    text-decoration: none;
+    margin: 5px; /*요소의 외부간격*/
+}
+
+#developer_ul > li > a > .screen
+{
+    position: relative; /*기준을 세워둠*/
+    overflow: hidden;
+}
+
+#developer_ul > li > a .screen .top
+{
+    position: absolute;
+    bottom: 150%; /*relative 이래로 150%*/
+    left:30px; /* relative왼쪽으로부터 위치*/
+    z-index: 2;
+    color: #fff;
+    font-size: 26px;
+    font-weight: 900; /* 폰트의 두께 */
+    transition: all .35s;
+    margin-left: 34%;
+}
+
+#developer_ul > li > a .screen .bottom
+{
+    position: absolute;
+    top: 150%;
+    left: 50px;
+    z-index: 2;
+    color: #fff;
+    font-size: 25px;
+    transition: all .35s;
+    margin-left: 35%;
+}
+
+#developer_ul > li > a .screen img
+{
+    width: 30%;
+    margin-left: 230px;
+}
+
+#developer_ul > li > a h3{
+    font-size: 30px;
+    text-align: center;
+    padding:10px;
+    color: black;
+}
+
+#developer_ul > li > a:hover .top {bottom: 52%;}
+#developer_ul > li > a:hover .bottom{top:52%;}
+
+#developer_ul > li > a .screen::after
+{
+    content: '';
+    display:inline-block;
+    position:absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,.5);
+    z-index: 1;
+    opacity: 0;
+    transition: all .35s;
+}
+
+#developer_ul > li > a:hover .screen::after
+{
+    opacity: 1;
+}

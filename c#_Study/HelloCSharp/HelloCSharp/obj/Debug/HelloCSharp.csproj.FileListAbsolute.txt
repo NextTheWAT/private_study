@@ -1,0 +1,8 @@
+C:\Users\Jean\Desktop\c#_Study\HelloCSharp\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+C:\Users\Jean\Desktop\c#_Study\HelloCSharp\HelloCSharp\bin\Debug\HelloCSharp.exe
+C:\Users\Jean\Desktop\c#_Study\HelloCSharp\HelloCSharp\bin\Debug\HelloCSharp.pdb
+C:\Users\Jean\Desktop\c#_Study\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.csproj.AssemblyReference.cache
+C:\Users\Jean\Desktop\c#_Study\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jean\Desktop\c#_Study\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\c#_Study\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.exe
+C:\Users\Jean\Desktop\c#_Study\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.pdb

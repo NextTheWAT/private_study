@@ -1,0 +1,11 @@
+C:\Users\Jean\Desktop\c#_Study\HelloCSharpWin\HelloCSharpWin\obj\Debug\HelloCSharpWin.csproj.AssemblyReference.cache
+C:\Users\Jean\Desktop\c#_Study\HelloCSharpWin\HelloCSharpWin\obj\Debug\HelloCSharpWin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jean\Desktop\c#_Study\HelloCSharpWin\HelloCSharpWin\obj\Debug\HelloCSharpWin.Calculator.resources
+C:\Users\Jean\Desktop\c#_Study\HelloCSharpWin\HelloCSharpWin\obj\Debug\HelloCSharpWin.Properties.Resources.resources
+C:\Users\Jean\Desktop\c#_Study\HelloCSharpWin\HelloCSharpWin\obj\Debug\HelloCSharpWin.csproj.GenerateResource.cache
+C:\Users\Jean\Desktop\c#_Study\HelloCSharpWin\HelloCSharpWin\obj\Debug\HelloCSharpWin.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\c#_Study\HelloCSharpWin\HelloCSharpWin\bin\Debug\HelloCSharpWin.exe.config
+C:\Users\Jean\Desktop\c#_Study\HelloCSharpWin\HelloCSharpWin\bin\Debug\HelloCSharpWin.exe
+C:\Users\Jean\Desktop\c#_Study\HelloCSharpWin\HelloCSharpWin\bin\Debug\HelloCSharpWin.pdb
+C:\Users\Jean\Desktop\c#_Study\HelloCSharpWin\HelloCSharpWin\obj\Debug\HelloCSharpWin.exe
+C:\Users\Jean\Desktop\c#_Study\HelloCSharpWin\HelloCSharpWin\obj\Debug\HelloCSharpWin.pdb

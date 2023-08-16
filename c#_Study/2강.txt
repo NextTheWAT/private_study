@@ -1,0 +1,24 @@
+2강
+
+c#에서의 값을 저장할때
+어떤 형식으로 저장할지를 지정해야한다.
+
+int
+string
+bool
+float
+double
+등등
+
+operator등 c#에서 지정해둔 이름은 사용할 수 없다.
+interface, private, public 등등
+
+프로그램에서의 사칙연산은 +, -, *, / 다
+더 자세하게 하면 %은 몫이고 /은 나머지.
+
+스트링의 형 변환은 Ex) sum.ToString(); 이다
+
+
+
+
+

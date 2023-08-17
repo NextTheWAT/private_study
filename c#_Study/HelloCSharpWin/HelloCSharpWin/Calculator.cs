@@ -32,5 +32,31 @@ namespace HelloCSharpWin
 
             HelloLable.Text = sum.ToString();
         }
+
+        private void SumNumbers_Click(object sender, EventArgs e)
+        {
+            int number1 = Convert.ToInt32(sum1.Text);
+            int number2 = Convert.ToInt32(sum2.Text);
+
+            int sum = Add(number1, number2);
+
+            sumResult.Text = sum.ToString();
+        }
+        public int Add(int number1, int number2)
+        {
+            int sum = number1 + number2;
+            return sum;
+        }
+
+        public float Add(float number1, float number2)  //함수의 오버로딩
+        {
+            float sum = number1 + number2;
+            return sum;
+        }
+        public int Sub(int number1, int number2)
+        {
+            int sum = number1 - number2;
+            return sum;
+        }
     }
 }
